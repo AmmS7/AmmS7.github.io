@@ -3,14 +3,16 @@ layout: default
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
+**My CB Portfolio**
+<a href="https://www.linkedin.com/in/ant%C3%B3nio-miguel-mendes-sousa-5a3b04345/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# About me
+
+I'm a cybersecurity enthusiast with a passion for learning and solving real-world security problems. This repository is a collection of my hands-on projects, skills, and research that I’ve developed during my journey into the cybersecurity field.
 
 This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
 
